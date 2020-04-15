@@ -1,0 +1,23 @@
+body{
+	background-image: url("../imagens/background.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+	
+}
+.principal{
+	width: absolute;
+	margin: auto;
+	margin-top: 5px;
+
+}
+.section{
+	width: absolute;
+	margin: auto;
+	margin-top: 10px;
+	font-family: Arial Black ;
+	
+}
